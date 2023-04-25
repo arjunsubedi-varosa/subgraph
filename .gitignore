@@ -1,0 +1,14 @@
+dist
+node_modules
+.env
+.env.docker
+logs
+.yarnrc.yml
+.yarn
+yarn.lock
+*lock.json
+.serverless
+.query.json
+src/index.ts
+.vscode
+.http
